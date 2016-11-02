@@ -1,0 +1,14 @@
+# Codelite stuff
+Debug
+Release
+Makefile
+*.mk
+*.project
+*.txt
+*.workspace
+.build-debug
+.build-release
+.codelite
+
+# CMake build dir
+build
